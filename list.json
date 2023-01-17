@@ -1,0 +1,475 @@
+[
+        {
+          "title": "The Laws of Human Nature",
+          "image": "https://i.vgy.me/3VOQD1.jpg",
+          "author": "Robert Greene",
+          "desc": "Psychological and emotional underpinnings of human behavior.",
+          "to": "/books/laws-of-human-nature",
+          "categories": ["non-fiction", "psychology"]
+        },
+        {
+          "title": "The 33 Strategies of War",
+          "image": "https://i.vgy.me/LLBQc5.jpg",
+          "author": "Robert Greene",
+          "desc": "Presents a comprehensive guide to the strategies of war, both in battle and in everyday life, drawing on the wisdom of great military leaders and thinkers throughout history to provide insights on how to be victorious in conflicts of all kinds.",
+          "to": "/books/the-33-strategies-of-war",
+          "categories": ["non-fiction"]
+        },
+        {
+          "title": "The 48 Laws of Power",
+          "image": "https://i.vgy.me/OnDoZH.jpg",
+          "author": "Robert Greene",
+          "desc": "A Practical guide to understanding and applying the principles of power and manipulation in personal and professional relationships.",
+          "to": "/books/48-laws-of-power",
+          "categories": ["non-fiction"]
+        },
+        {
+          "title": "Mastery",
+          "image": "https://i.vgy.me/p8xrZy.jpg",
+          "author": "Robert Greene",
+          "desc": "Explores the path to mastery in any field, drawing on the stories of historical figures and contemporary experts to identify the common traits and strategies of those who have achieved mastery in their chosen field.",
+          "to": "/books/mastery",
+          "categories": ["non-fiction"]
+        },
+        {
+          "title": "It Doesn’t Have to Be Crazy at Work",
+          "image": "https://i.vgy.me/A7lK5D.jpg",
+          "author": "Jason Fried, David Heinemeier Hansson",
+          "desc": "Presents a new approach to work, one that values a sustainable pace, encourages autonomy and prioritizes communication and collaboration, to help companies and individuals to achieve long-term success and fulfillment.",
+          "to": "/books/it-doesnt-have-to-be-crazy-at-work",
+          "categories": ["non-fiction"]
+        },
+        {
+          "title": "How Innovation Works",
+          "image": "https://i.vgy.me/Hb9mYK.jpg",
+          "author": "Matt Ridley",
+          "desc": "Explores the history of human innovation and its relationship to progress, prosperity and freedom, and argues that innovation is driven by the interactions and collaborations of individuals, rather than by governments or institutions.",
+          "to": "/books/how-innovation-works",
+          "categories": ["non-fiction"]
+        },
+        {
+          "title": "Influence: The Psychology of Persuasion",
+          "image": "https://i.vgy.me/A3fOph.jpg",
+          "author": "Robert Cialdini",
+          "desc": "Explores the psychology of why people say YES and how to apply these principles to be a more effective persuader in both personal and professional settings.",
+          "to": "/books/influence",
+          "categories": ["non-fiction"]
+        },
+        {
+          "title": "Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days",
+          "image": "https://i.vgy.me/YzbAjP.jpg",
+          "author": "Jake Knapp",
+          "desc": "Explains a process for solving big problems and testing new ideas through a structured five-day sprint process, which is designed to help teams move quickly and efficiently from idea to prototype.",
+          "to": "/books/sprint",
+          "categories": ["non-fiction"]
+        },
+        {
+          "title": "Business Model Generation: A Handbook for Visionaries, Game Changers, and Challengers",
+          "image": "https://i.vgy.me/JMd7r5.jpg",
+          "author": "Alexander Osterwalder",
+          "desc": "Provides a practical guide to creating and implementing business models, using a visual, structured approach, and featuring a wide range of real-world examples and case studies.",
+          "to": "/books/business-model-generation",
+          "categories": ["non-fiction"]
+        },
+        {
+          "title": "The Richest Man in Babylon",
+          "image": "https://i.vgy.me/exu0mj.jpg",
+          "author": "George Clason",
+          "desc": "Uses parables set in ancient Babylon to teach timeless lessons about money management and achieving financial success.",
+          "to": "/books/richest-man-in-babylon",
+          "categories": ["finance"]
+        },
+        {
+          "title": "The 5 AM Club",
+          "image": "https://i.vgy.me/sCAJvd.jpg",
+          "author": "Robin Sharma",
+          "desc": "Presents a method for developing the habit of waking up early, using the hours before dawn to learn new skills, be productive, and achieve one's goals, as well as to gain focus, discipline and creativity.",
+          "to": "/books/the-5-am-club",
+          "categories": ["self-help"]
+        },
+        {
+          "title": "Physical Intelligence: The Science of Thinking Without Thinking",
+          "image": "https://i.vgy.me/GcQtMJ.jpg",
+          "author": "Scott Grafton",
+          "desc": "Draws on the very latest research, experiences with patients and his own dangerous hikes in the wilderness to explore the hidden depths of this silent intellect we all possess.",
+          "to": "/books/physical-intelligence",
+          "categories": ["non-fiction"]
+        },
+        {
+          "title": "Find Your WHY",
+          "image": "https://i.vgy.me/a6mr02.jpg",
+          "author": "Simon Sinek",
+          "desc": "Explores the concept of why in leadership and business and argues that successful leaders and organizations have a clear sense of purpose, or why, that guides their actions, and inspires others to follow.",
+          "to": "/books/find-your-why",
+          "categories": ["self-help"]
+        },
+        {
+          "title": "Thus Spoke Zarathustra",
+          "image": "https://i.vgy.me/fG3gTJ.jpg",
+          "author": "Friedrich Nietzsche",
+          "desc": "Journey and teachings of the prophet Zarathustra, as he descends from his solitude in the mountains to share his philosophy of the 'superman' with the people, and ultimately to overcome the traditional morality and values of his time",
+          "to": "/books/thus-spoke-zarathustra",
+          "categories": ["philosophy"]
+        },
+        {
+          "title": "Wuthering Heights",
+          "image": "https://i.vgy.me/dQir1J.jpg",
+          "author": "Emily Brontë",
+          "desc": "Tells the story of the passionate and destructive love between Catherine Earnshaw and Heathcliff, set against the wild and isolated landscape of the Yorkshire moors, and explores themes of love, revenge, and the nature of humanity.",
+          "to": "/books/wuthering-heights",
+          "categories": ["classic"]
+        },
+        {
+          "title": "The Prince",
+          "image": "https://i.vgy.me/afNFfX.jpg",
+          "author": "Niccolo Machiavelli",
+          "desc": "Presents a pragmatic and amoral guide to acquiring and maintaining political power, through the use of cunning, deceit and force, and is widely considered a classic work in the field of political science and philosophy.",
+          "to": "/books/the-prince",
+          "categories": ["philosophy"]
+        },
+        {
+          "title": "On the Origin of Species",
+          "image": "https://i.vgy.me/xibAXa.jpg",
+          "author": "Charles Darwin",
+          "desc": "Presents evidence for the theory of evolution and natural selection, which explains the diversity of life on Earth and how species change over time through the process of natural selection.",
+          "to": "/books/on-the-origin-of-species",
+          "categories": ["science"]
+        },
+        {
+          "title": "The Art of War",
+          "image": "https://i.vgy.me/qmO4xx.jpg",
+          "author": "Sun Tzu",
+          "desc": "Presents a philosophy of warfare and strategy, with a focus on the psychological and political dimensions of warfare, and is widely considered a classic work on strategy and leadership, and its principles are still studied and applied in the fields of business and management.",
+          "to": "/books/the-art-of-war",
+          "categories": ["philosophy", "classic"]
+        },
+        {
+          "title": "Tiny Habits: The Small Changes That Change Everything",
+          "image": "https://i.vgy.me/07FH86.jpg",
+          "author": "BJ Fogg",
+          "desc": "Presents a methodology for implementing small changes in behavior to achieve long-term goals by focusing on tiny habits, which are small, easy and consistent actions that can be done in less than a minute, and that can be used to build momentum and establish new habits over time.",
+          "to": "/books/tiny-habits",
+          "categories": ["self-help"]
+        },
+        {
+          "title": "The Metamorphosis",
+          "image": "https://i.vgy.me/idDTOe.jpg",
+          "author": "Franz Kafka",
+          "desc": "A story of Gregor Samsa, a traveling salesman who wakes up one morning to find himself transformed into a giant insect, and explores themes of alienation, guilt and the struggle for survival in a world that does not understand or accept him, and is widely considered a masterpiece of modern literature.",
+          "to": "/books/the-metamorphosis",
+          "categories": ["novel"]
+        },
+        {
+          "title": "Notes from Underground",
+          "image": "https://i.vgy.me/iQiXJO.jpg",
+          "author": "Fyodor Dostoevsky",
+          "desc": "Explores the inner thoughts and feelings of a reclusive and embittered individual who lives in the underground of society, and reflects on the nature of human existence, freedom, and the struggle for meaning in a world that is often hostile and indifferent.",
+          "to": "/books/notes-from-underground",
+          "categories": ["novel"]
+        },
+        {
+          "title": "The Brothers Karamazov",
+          "image": "https://i.vgy.me/w8ck4T.jpg",
+          "author": "Fyodor Dostoevsky",
+          "desc": "Explores themes of faith, morality, love, and the human condition through the lives and relationships of the Karamazov brothers, and their father, and is widely considered to be a masterpiece of Russian literature.",
+          "to": "/books/the-brothers-karamazov",
+          "categories": ["novel"]
+        },
+        {
+          "title": "The Idiot",
+          "image": "https://i.vgy.me/ceQPh2.jpg",
+          "author": "Fyodor Dostoevsky",
+          "desc": "Story of Prince Lev Nikolayevich Myshkin, a kind and innocent man who returns to Russia after spending several years in a Swiss sanatorium, and explores the themes of morality, spirituality, and the human condition through his interactions with the other characters in the novel.",
+          "to": "/books/the-idiot",
+          "categories": ["novel"]
+        },
+        {
+          "title": "Demons",
+          "image": "https://i.vgy.me/AJaTQA.jpg",
+          "author": "Fyodor Dostoevsky",
+          "desc": "Explores the political, social, and moral issues of the time through the story of a group of radical idealists who attempt to incite a revolution in a small town, and the subsequent tragic consequences of their actions.",
+          "to": "/books/demons",
+          "categories": ["novel"]
+        },
+        {
+          "title": "Crime and Punishment",
+          "image": "https://i.vgy.me/agsKzY.jpg",
+          "author": "Fyodor Dostoevsky",
+          "desc": "Explores the psychological and moral struggles of a young man named Raskolnikov who commits a murder and then grapples with the guilt and the consequences of his actions.",
+          "to": "/books/crime-and-punishment",
+          "categories": ["novel"]
+
+        },
+        {
+          "title": "MONEY Master the Game",
+          "image": "https://i.vgy.me/kBMT8B.jpg",
+          "author": "Tony Robbins",
+          "desc": "A comprehensive guide to achieving financial success and freedom, through the use of investment strategies and principles of wealth creation, drawing on the experiences and insights of some of the world's most successful investors and financial experts.",
+          "to": "/books/money-master-the-game",
+          "categories": ["non-fiction"]
+
+        },
+        {
+          "title": "Unshakeable: Your Financial Freedom Playbook",
+          "image": "https://i.vgy.me/uGM1Gg.jpg",
+          "author": "Tony Robbins",
+          "desc": "A step-by-step guide to achieving financial freedom and security, through the use of investment strategies and principles of wealth creation, drawing on the experiences and insights of some of the world's most successful investors and financial experts, and offering practical advice and guidance for creating and maintaining wealth over the long term.",
+          "to": "/books/unshakeable",
+          "categories": ["non-fiction"]
+
+        },
+        {
+          "title": "Factfulness: Ten Reasons We're Wrong About the World",
+          "image": "https://i.vgy.me/39E1jm.jpg",
+          "author": "Hans Rosling",
+          "desc": "Provides an evidence-based perspective on the state of the world, by challenging common misconceptions and biases, and presenting data and facts to illustrate that many aspects of the world are actually improving, and it encourages readers to develop a more accurate and nuanced understanding of global issues and trends in order to make more informed decisions and take more effective action.",
+          "to": "/books/factfulness",
+          "categories": ["non-fiction"]
+
+        },
+        {
+          "title": "Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future",
+          "image": "https://i.vgy.me/CdbMpk.jpg",
+          "author": "Ashlee Vance",
+          "desc": "A story of entrepreneur Elon Musk, and his companies, Tesla and SpaceX, and provides an in-depth look into his life, his business ventures, and his vision for the future of technology, energy, and space exploration, and is widely considered an important and informative work on the subject of innovation, leadership, and the impact of technology on society.",
+          "to": "/books/elon-musk",
+          "categories": ["non-fiction"]
+
+        },
+        {
+          "title": "The Culture Code: The Secrets of Highly Successful Groups",
+          "image": "https://i.vgy.me/qrLiU6.jpg",
+          "author": "Daniel Coyle",
+          "desc": "Delves into the inner workings of successful groups, and examines how cultures are built and how leaders create a sense of belonging and purpose, by understanding and utilizing the principles of social intelligence, it presents a blueprint for how to create a culture in your own organization, and provides actionable insights and practical techniques that can be used to build stronger and more effective teams.",
+          "to": "/books/the-culture-code",
+          "categories": ["non-fiction"]
+
+        },
+        {
+          "title": "Emotional Intelligence and Working with Emotional Intelligence",
+          "image": "https://i.vgy.me/9ZKu8P.jpg",
+          "author": "Daniel Goleman",
+          "desc": "Explores the concept of emotional intelligence and its impact on personal and professional success, by examining the abilities to recognize, understand, and manage emotions, it presents a comprehensive and evidence-based framework for understanding and developing emotional intelligence, and is widely considered an important and influential work on the subject of emotional intelligence and leadership.",
+          "to": "/books/the-culture-code",
+          "categories": ["non-fiction"]
+
+        },
+        {
+          "title": "Maradona: The Hand of God",
+          "image": "https://i.vgy.me/zcjAEa.jpg",
+          "author": "Jimmy Burns",
+          "desc": "The story of Argentine soccer legend Diego Maradona, from his humble beginnings in Buenos Aires to his rise to global stardom on the soccer field, and delves into the complex and often controversial aspects of his life, including his drug addiction, his political views, and his impact on the sport of soccer, the book is widely considered a classic work of sports journalism and biography.",
+          "to": "/books/maradona",
+          "categories": ["non-fiction"]
+
+        },
+        {
+          "title": "Power Of Acceptance",
+          "image": "https://i.vgy.me/RDZadc.jpg",
+          "author": "Bill Thatcher",
+          "desc": "Guide to finding the unconditional acceptance everyone desires. Through the principles outlined and the deeply honest stories shared, you can learn how to build acceptance that frees you to live up to your fullest potential and achieve a healthy sense of self.",
+          "to": "/books/power-of-acceptance",
+          "categories": ["non-fiction"]
+
+        },
+        {
+          "title": "Biased: Uncovering the Hidden Prejudice That Shapes What We See, Think, and Do",
+          "image": "https://i.vgy.me/GjFa8U.jpg",
+          "author": "Jennifer L. Eberhardt",
+          "desc": "Explains the concept of implicit bias and its impact on our perceptions, actions, and decision-making. The book explores the ways in which biases can be both subtle and pervasive, and provides strategies for recognizing and reducing them in our personal and professional lives.",
+          "to": "/books/biased",
+          "categories": ["non-fiction"]
+
+        },
+        {
+          "title": "A New Earth: Awakening to Your Life's Purpose",
+          "image": "https://i.vgy.me/iNNaI5.jpg",
+          "author": "Eckhart Tolle",
+          "desc": "Presents a spiritual perspective on the problems of humanity, and provides an in-depth look into the nature of consciousness, the ego, and the human condition, and offers practical guidance and insights for personal transformation and spiritual growth.",
+          "to": "/books/a-new-earth",
+          "categories": ["self-help"]
+        },
+        {
+        "title": "7 Strategies for Wealth & Happiness",
+        "image": "https://i.vgy.me/diHceP.jpg",
+        "author": "Jim Rohn",
+        "desc": "Presents a collection of strategies and principles for achieving wealth and happiness, drawing on the author's own experiences and insights as a successful entrepreneur, motivational speaker, and personal development expert. It covers topics such as goal-setting, time management, networking, and the power of positive thinking, and provides practical advice and guidance for creating the life you want.",
+        "to": "/books/7-strategies-for-wealth-and-happiness",
+        "categories": ["self-help"]
+        },
+        {
+      "title": "Be a Winner",
+      "image": "https://i.vgy.me/qv0ZDH.jpg",
+      "author": "Norman Vincent Peale",
+      "desc": "Presents a Christian perspective on success, and provides practical advice and guidance for achieving personal and professional goals, drawing on biblical principles and the author's own experiences as a pastor and motivational speaker.",
+      "to": "/books/be-a-winner",
+      "categories": ["self-help"]
+      },
+              {
+      "title": "The 7 Habits of Highly Effective People",
+      "image": "https://i.vgy.me/fvxTOz.jpg",
+      "author": "Stephen Covey",
+      "desc": "Provides a comprehensive and principle-centered approach for solving personal and professional problems. The book presents 7 habits that are key to achieving effectiveness in one's personal and professional life.",
+      "to": "/books/7-habits-of-highly-effective-people",
+      "categories": ["self-help"]
+      },
+              {
+      "title": "Getting Things Done - The Art of Stress-Free Productivity",
+      "image": "https://i.vgy.me/RkPeTm.jpg",
+      "author": "David Allen",
+      "desc": "Provides a comprehensive methodology for achieving productivity and effectiveness in personal and professional life, by implementing a system for capturing, organizing and processing tasks, and actions, it presents a practical and actionable framework for managing time and achieving goals.",
+      "to": "/books/getting-things-done",
+      "categories": ["self-help"]
+      },
+              {
+      "title": "Money",
+      "image": "https://i.vgy.me/VUjLrG.jpg",
+      "author": "Yuval Noah Harari",
+      "desc": "Takes the reader on a journey from the very first coins through to 21st century economics in his book and explores the questions of how money came to be invented, its significance in our lives, its impact on happiness and unhappiness and its future.",
+      "to": "/books/money",
+      "categories": ["non-fiction"]
+      },
+              {
+      "title": "Little Black Book for Stunning Success",
+      "image": "https://i.vgy.me/hrEVR8.jpg",
+      "author": "Robin Sharma",
+      "desc": "Presents a collection of strategies and principles for achieving success in personal and professional life, drawing on the author's own experiences and insights as a motivational speaker and personal development expert, it provides practical advice and guidance for creating the life you want and achieving your goals.",
+      "to": "/books/little-black-book-for-stunning-success",
+      "categories": ["self-help"]
+      },
+              {
+      "title": "Think and Grow Rich",
+      "image": "https://i.vgy.me/90TMA0.jpg",
+      "author": "Napoleon Hill",
+      "desc": "Provides a comprehensive and principle-centered approach for achieving success in personal and professional life, by implementing a system for setting and achieving goals, it presents a practical and actionable framework for creating wealth, success and happiness.",
+      "to": "/books/think-and-grow-rich",
+      "categories": ["self-help"]
+      },
+              {
+      "title": "Anger: Handling a Powerful Emotion in a Healthy Way",
+      "image": "https://i.vgy.me/2J9gyC.jpg",
+      "author": "Gary Chapman",
+      "desc": "Provides a comprehensive and principle-centered approach for understanding, managing, and expressing anger in a healthy way, by examining the causes and effects of anger, it presents a practical and actionable framework for understanding and managing anger, it provides a biblical perspective on anger and it is intended to help readers develop healthier relationships with others and with themselves.",
+      "to": "/books/anger",
+      "categories": ["self-help"]
+      },
+              {
+      "title": "Long Walk to Freedom",
+      "image": "https://i.vgy.me/jxvfFY.jpg",
+      "author": "Nelson Mandela",
+      "desc": "Tells the story of Mandela's life, from his childhood in a rural village to his 27-year imprisonment for his fight against apartheid, and his eventual rise to become the first democratically elected president of South Africa. It is widely considered a classic work of political autobiography and is an important historical document that provides insight into the struggle against apartheid and the role that Mandela played in it.",
+      "to": "/books/long-walk-to-freedom",
+      "categories": ["autobiography"]
+      },
+              {
+      "title": "Ronaldo: The Obsession for Perfection",
+      "image": "https://i.vgy.me/8K8J9T.jpg",
+      "author": "Luca Caioli",
+      "desc": "Tells the story of Cristiano Ronaldo, one of the greatest soccer players of all time, from his humble beginnings in Madeira, Portugal, to his rise to global stardom on the soccer field, and delves into the complex and often controversial aspects of his life, including his rigorous training regimen, his competitive drive and his impact on the sport of soccer.",
+      "to": "/books/ronaldo",
+      "categories": ["non-fiction"]
+      },
+              {
+      "title": "Unlimited Power",
+      "image": "https://i.vgy.me/1wFfUm.jpg",
+      "author": "Tony Robbins",
+      "desc": "Presents a comprehensive and principle-centered approach for achieving success in personal and professional life, by implementing a system for setting and achieving goals, it presents a practical and actionable framework for creating wealth, success and happiness, it provides a comprehensive guide on how to harness the power of the mind to achieve personal and professional success.",
+      "to": "/books/unlimited-power",
+      "categories": ["self-help"]
+      },
+              {
+      "title": "Sapiens: A Brief History of Humankind",
+      "image": "https://i.vgy.me/tpXtZA.jpg",
+      "author": "Yuval Noah Harari",
+      "desc": "Provides a comprehensive and engaging introduction to the history of humankind from the emergence of our species in Africa to the present day. It covers a wide range of topics, including human evolution, the rise of agriculture and civilization, the development of religion and science, and the future of our species.",
+      "to": "/books/sapiens",
+      "categories": ["non-fiction"]
+      },
+              {
+      "title": "21 Lessons for the 21st Century",
+      "image": "https://i.vgy.me/9DixhF.jpg",
+      "author": "Yuval Noah Harari",
+      "desc": "Explores the major challenges and opportunities of the 21st century, such as technological disruption, economic inequality, political polarization, and the future of humanity. It provides an in-depth look into the nature of technology, democracy, and the human condition and offers practical guidance and insights for personal transformation and societal progress.",
+      "to": "/books/21-lessons-for-21st-century",
+      "categories": ["non-fiction"]
+      },
+              {
+      "title": "The Order of Time",
+      "image": "https://i.vgy.me/7BOQk4.jpg",
+      "author": "Carlo Rovelli",
+      "desc": "Explores the nature of time and how human beings have understood it throughout history, from the earliest civilizations to the latest scientific discoveries. It delves into the physics and philosophy of time, and presents a comprehensive and accessible framework for understanding the fundamental concepts of time and space.",
+      "to": "/books/the-order-of-time",
+      "categories": ["non-fiction"]
+      },
+              {
+      "title": "A Brief History of Time",
+      "image": "https://i.vgy.me/OY0G4g.jpg",
+      "author": "Stephen Hawking",
+      "desc": "Presents a comprehensive and accessible introduction to the major concepts and theories of cosmology, physics, and the nature of the universe. It delves into the origins and evolution of the universe, the nature of space and time, and the fundamental laws of physics.",
+      "to": "/books/a-breif-history-of-time",
+      "categories": ["non-fiction"]
+      },
+              {
+      "title": "Brief Answers to the Big Questions",
+      "image": "https://i.vgy.me/OsJeUI.jpg",
+      "author": "Stephen Hawking",
+      "desc": "Presents a collection of the late physicist's most significant and insightful ideas on the biggest questions of our time. It covers topics such as the nature of time and space, the origin of the universe, the possibility of extraterrestrial life, and the future of humanity, and provides a comprehensive and accessible introduction to Stephen Hawking's thoughts on the most important questions facing humanity today.",
+      "to": "/books/breif-answers-to-the-big-questions",
+      "categories": ["non-fiction"]
+      },
+              {
+      "title": "On the Genealogy of Morals",
+      "image": "https://i.vgy.me/kAm9dN.jpg",
+      "author": "Friedrich Nietzsche",
+      "desc": "Presents a critique of traditional morality and presents an alternative genealogical account of its origins and development, the book is divided into three essays, and explores the history of moral concepts such as guilt, conscience, and responsibility and their relation to the development of society.",
+      "to": "/books/on-the-genealogy-of-morals",
+      "categories": ["philosophy"]
+      },
+              {
+      "title": "12 Rules for Life: An Antidote to Chaos",
+      "image": "https://i.vgy.me/c0lNuu.jpg",
+      "author": "Jordan Peterson",
+      "desc": "Presents a collection of 12 principles for living a meaningful and fulfilling life, drawing on the author's own experiences and insights as a clinical psychologist, professor, and public intellectual. It covers topics such as personal responsibility, self-discipline, and the importance of storytelling in human culture, and provides practical advice and guidance for creating the life desired and achieving goals.",
+      "to": "/books/12-rules-for-life",
+      "categories": ["self-help"]
+      },
+              {
+      "title": "Beyond Order: 12 More Rules for Life",
+      "image": "https://i.vgy.me/E8wN3x.jpg",
+      "author": "Jordan Peterson",
+      "desc": "Presents a collection of 12 additional principles for living a meaningful and fulfilling life, building on the author's previous book '12 Rules for Life: An Antidote to Chaos', it covers topics such as personal responsibility, self-discipline, and the importance of storytelling in human culture.",
+      "to": "/books/beyond-order",
+      "categories": ["self-help"]
+      },
+              {
+      "title": "Flow: The Psychology of Optimal Experience",
+      "image": "https://i.vgy.me/ky7wLu.jpg",
+      "author": "Mihaly Csikszentmihalyi",
+      "desc": "Presents a comprehensive and principle-centered approach for understanding and achieving a state of optimal experience, known as Flow. It explores the psychological and social foundations of flow and provides an in-depth look into the ways in which flow operates in our daily lives and how it can be harnessed to increase productivity, creativity and overall well-being.",
+      "to": "/books/flow",
+      "categories": ["self-help"]
+      },
+              {
+      "title": "Great by Choice",
+      "image": "https://i.vgy.me/gtYsm3.jpg",
+      "author": "Jim Collins",
+      "desc": "Presents a comprehensive and principle-centered approach for understanding and achieving success in business and life, by examining the traits and practices of companies that have thrived in uncertain and chaotic environments, it provides an in-depth look into the ways in which these companies have achieved greatness and how their strategies can be adapted to other fields.",
+      "to": "/books/great-by-choice",
+      "categories": ["self-help"]
+      },
+              {
+      "title": "The Lean Startup",
+      "image": "https://i.vgy.me/YBu4aR.jpg",
+      "author": "Eric Ries",
+      "desc": "Presents a comprehensive and principle-centered approach for understanding and achieving success in business and startup by using a Lean methodology. It provides an in-depth look into the ways in which entrepreneurs can create and develop successful companies by using a process of continuous innovation, testing, and learning.",
+      "to": "/books/the-lean-startup",
+      "categories": ["non-fiction"]
+      },
+              {
+      "title": "The Startup Way",
+      "image": "https://i.vgy.me/04BPJK.jpg",
+      "author": "Eric Ries",
+      "desc": "Presents a comprehensive and principle-centered approach for understanding and achieving success in large organizations and established companies by using the principles and methodologies of startup thinking and entrepreneurship. It provides an in-depth look into the ways in which large organizations can drive growth and innovation by embracing the principles of lean startup and entrepreneurial management.",
+      "to": "/books/the-startup-way",
+      "categories": ["non-fiction"]
+        }]
