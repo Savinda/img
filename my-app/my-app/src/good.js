@@ -8,6 +8,9 @@
 // In App component, I have used the shorthand syntax for functional component and added a class name to the main div
 // In the map function, I have passed `key
 
+// Here is the complete app code: https://github.com/Savinda/img/tree/main/my-app/my-app
+// And codespace: https://savinda-obscure-adventure-jxqqr5q4jp3q9wv.github.dev/
+
 
 // 1. components/Card.js
 import React from 'react';
